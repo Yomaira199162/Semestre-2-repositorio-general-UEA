@@ -1,0 +1,8 @@
+{
+    "001": {
+        "id": "001",
+        "nombre": "Monitor",
+        "cantidad": 10,
+        "precio": 150.0
+    }
+}
